@@ -1,4 +1,4 @@
-# Hi there, I'm Hari Om Dwivedi! 👋
+# Hi there, I'm Hari Om Dwiveddi! 👋
 
 Cyber Security student exploring the intersection of **Number Theory** & **Cryptography**. Not a master, just a curious learner fascinated by the math that secures our digital world. 🛡️
 
