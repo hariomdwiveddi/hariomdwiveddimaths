@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Hari Om Dwivedi! 👋
 
-<!--
-**hariomdwiveddi/hariomdwiveddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security student exploring the intersection of **Number Theory** & **Cryptography**. Not a master, just a curious learner fascinated by the math that secures our digital world. 🛡️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests & Learning:
+
+* **Cyber Security:** Focused on building a strong defensive mindset and understanding system foundations.
+* **Number Theory:** Exploring the "Queen of Mathematics" that powers modern encryption.
+* **Cryptography:** Learning how abstract math transforms into secure data protection.
+
+---
+
+### 🤝 Let's Connect:
+* **LinkedIn:** [https://www.linkedin.com/in/hariomdwiveddimaths](https://www.linkedin.com/in/hariomdwiveddimaths)
+* **Email:** [hariomdwiveddi@hotmail.com](mailto:hariomdwiveddi@hotmail.com)
+
+---
+⚡ *Operating in Ghost Mode: Focused on building skills, not social media feeds.*
