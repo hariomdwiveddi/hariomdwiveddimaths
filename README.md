@@ -13,7 +13,7 @@ Cyber Security student exploring the intersection of **Number Theory** & **Crypt
 ---
 
 ### 🤝 Let's Connect:
-* **LinkedIn:** [https://www.linkedin.com/in/hariomdwiveddimaths](https://www.linkedin.com/in/hariomdwiveddimaths)
+* **LinkedIn:** [https://www.linkedin.com/in/hariomdwiveddi](https://www.linkedin.com/in/hariomdwiveddi)
 * **Email:** [hariomdwiveddi@hotmail.com](mailto:hariomdwiveddi@hotmail.com)
 
 ---
